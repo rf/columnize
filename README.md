@@ -5,7 +5,7 @@
 Print data in columns in node.js.  Install it like this
 
 ```
-npm i columnize
+$ npm i columnize
 ```
 
 Use it like this
