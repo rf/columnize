@@ -2,7 +2,6 @@
 ,  "version": "0.0.0"
 ,  "author": "Russ Frank <me@russfrank.us>"
 ,  "description": "print data in columns"
-,  "preferGlobal": "true"
 ,  "homepage": "http://github.com/russfrank/columnize"
 ,  "dependencies":
    {  "wordwrap": "0.0.x"
